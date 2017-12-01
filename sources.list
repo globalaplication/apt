@@ -1,0 +1,3 @@
+#/etc/apt/sources.list
+
+deb cdrom:[Linux Mint 18.2 _Sonya_ - Release i386 20170629]/ xenial contrib main non-free
